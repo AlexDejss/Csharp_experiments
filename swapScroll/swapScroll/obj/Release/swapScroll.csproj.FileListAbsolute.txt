@@ -1,0 +1,14 @@
+C:\Projects\swapScroll\swapScroll\bin\Release\swapScroll.exe.config
+C:\Projects\swapScroll\swapScroll\bin\Release\swapScroll.exe
+C:\Projects\swapScroll\swapScroll\bin\Release\swapScroll.pdb
+C:\Projects\swapScroll\swapScroll\obj\Release\MainWindow.g.cs
+C:\Projects\swapScroll\swapScroll\obj\Release\App.g.cs
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll_MarkupCompile.cache
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll_MarkupCompile.lref
+C:\Projects\swapScroll\swapScroll\obj\Release\MainWindow.baml
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll.g.resources
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll.Properties.Resources.resources
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll.csproj.GenerateResource.Cache
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll.exe
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll.pdb
+C:\Projects\swapScroll\swapScroll\obj\Release\swapScroll.csprojResolveAssemblyReference.cache

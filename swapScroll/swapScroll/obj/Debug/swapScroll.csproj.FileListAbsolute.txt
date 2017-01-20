@@ -1,0 +1,16 @@
+C:\Projects\swapScroll\swapScroll\bin\Debug\swapScroll.exe.config
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll.csprojResolveAssemblyReference.cache
+C:\Projects\swapScroll\swapScroll\obj\Debug\MainWindow.g.cs
+C:\Projects\swapScroll\swapScroll\obj\Debug\App.g.cs
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll_MarkupCompile.cache
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll_MarkupCompile.lref
+C:\Projects\swapScroll\swapScroll\bin\Debug\swapScroll.exe
+C:\Projects\swapScroll\swapScroll\bin\Debug\swapScroll.pdb
+C:\Projects\swapScroll\swapScroll\obj\Debug\MainWindow.baml
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll.g.resources
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll.Properties.Resources.resources
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll.csproj.GenerateResource.Cache
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll.exe
+C:\Projects\swapScroll\swapScroll\obj\Debug\swapScroll.pdb
+C:\Projects\swapScroll\swapScroll\obj\Debug\DeviceLoadWindow.g.cs
+C:\Projects\swapScroll\swapScroll\obj\Debug\DeviceLoadWindow.baml
